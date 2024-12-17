@@ -3,7 +3,7 @@
 	•	🌱 Je suis actuellement en formation à la Wild Code School…
 	•	💞️ Je recherche des collaborateurs pour pratiquer…
 	•	📫 Je suis joignable : sambah4450@gmail.com
-  . Jai des compétances en HTML5/CSS
+  . Jai des compétances en HTML5/CSS, JS, Node.js, React.
 	•	😄 Pronoms : …
 	•	⚡ Fait amusant : …
 
