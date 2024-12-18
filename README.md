@@ -47,5 +47,5 @@ Développeur web en formation, passionné par la création de solutions modernes
 
 <img src="https://raw.githubusercontent.com/Devtrotter/Devtrotter/57d797287a1541c51be8dbcd2e1f621af6b55f88/Images/snake.svg" style="background:#161b22;">
 
-💻💜🚀 by [Mohamed][(https://www.linkedin.com/in/mohamed-bah-aa38a1232/)]
+💻💜🚀 by [Mohamed]([(https://www.linkedin.com/in/mohamed-bah-aa38a1232/)])
 ﻿
