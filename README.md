@@ -1,28 +1,56 @@
-![Coding Gif](https://github.com/m-mdy-m/m-mdy-m/blob/main/Life.js.gif)
-Salut! Je suis Mohamed BAH (💻💜🚀)![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-========================================================================================================================================
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+England+SemiJoine&pause=1000&color=D32BFFB3&center=faux&vCenter=faux&repeat=vrai&random=faux&width=435&lines=%5BStagiaire%5D%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;%5BWild+Code+School%5D%F0%9F%8F%AB;%5B%F0%9F%A4%96AI%7C%E2%9B%93%EF%B8%8FWeb3%5D%F0%9F%92%9C)](https://git.io/typing-svg)
+# Salut! Je suis Mohamed BAH 🖥️🔧🚀
 
-Développeur web en formation, passionné par la création de solutions modernes et adaptatives. À la recherche d’une alternance pour développer et appliquer mes compétences dans des environnements collaboratifs et dynamiques.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+England+SemiJoine&pause=1000&color=2B62D4&center=false&vCenter=false&repeat=true&random=false&width=500&lines=Technicien+R%C3%A9seaux+%26+Syst%C3%A8mes;Proxmox+%C2%B7+OPNsense+%C2%B7+Docker+%C2%B7+WireGuard;CCNA+en+cours+%F0%9F%8E%AF;Ancien+d%C3%A9veloppeur+web+%E2%86%92+Infra+Linux)](https://git.io/typing-svg)
 
-- 🌍 Actuellement en France
-- 🌱 En formation actuellement chez [Wild Code School](https://www.wildcodeschool.com/fr-fr/)
-- 🧠 Apprentissage du Front / Back end
-- ⚡ Je suis secrètement flash... Mais ne le dites à personne, svp
+Développeur web de formation, je migre aujourd'hui vers les **réseaux et l'administration système**.  
+Je maintiens un homelab en production — réseau segmenté, VMs sous Proxmox, stack Docker — et je prépare activement le **CCNA**.  
+Disponible immédiatement pour un poste junior en systèmes & réseaux à Toulouse.
 
-<h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24" height="24"/> Technologies<h3/>
+- 📍 Toulouse, France
+- 🎯 Objectif : Technicien Réseaux & Systèmes — CDI
+- 🌱 En préparation : **CCNA** (Jeremy's IT Labs)
+- 🔧 Homelab en prod : Proxmox · OPNsense · VLANs · WireGuard · Docker
+- 💬 Background : Bac+2 DWWM — Wild Code School (2024–2025)
 
-![skills](https://skillicons.dev/icons?i=html,css,js,react,figma,vscode,github,discord&theme=dark)
+---
+
+### 🛠️ Stack technique actuelle
+
+![skills](https://skillicons.dev/icons?i=linux,bash,python,docker,nginx,git,github,vscode&theme=dark)
+
+---
+
+### 🏗️ Infrastructure homelab
+
+```
+Hyperviseur  : Proxmox VE — 5 VMs Debian 12 / Ubuntu Server
+Pare-feu     : OPNsense — segmentation VLAN, firewall, NAT
+VPN          : WireGuard — VM dédiée, VLAN isolé
+DNS          : Pi-hole
+Conteneurs   : Docker Compose — Nextcloud, Nginx Proxy Manager, Portainer, n8n
+Switch       : Cisco SG200-08
+
+VLAN 10 — WireGuard VPN
+VLAN 20 — Docker & services  
+VLAN 30 — Automatisation & scripts
+```
+
+---
+
+### 📂 Projets infra
+
+| Repo | Description |
+|------|-------------|
+| [`homelab-infra`](https://github.com/sbg224/homelab-infra) | Documentation complète : réseau, VMs, services, scripts |
+| [`veille-tech`](https://github.com/sbg224/veille-tech) | Script Python — veille technique automatisée via API + Telegram |
 
 ---
 
 <details>
-<summary>&#9889 <b>GitHub Stats</b></summary><br/>
-
+<summary>⚡ <b>GitHub Stats</b></summary><br/>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sbg224&theme=radical&border=7F3FBF&background=0D1117" alt="sbg224" />
 </p>
-
 <p align="center">
     <a href="https://github.com/sbg224">
         <img alt="sbg224 Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sbg224&show_icons=true&count_private=true&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
@@ -31,21 +59,19 @@ Développeur web en formation, passionné par la création de solutions modernes
         <img alt="sbg224 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sbg224&langs_count=20&layout=compact&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
     </a>
 </p>
-
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sbg224&custom_title=sbg224%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="sbg224" />
 </p>
 </details>
+
 <details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+    <summary>🏆 <b>GitHub Awards</b></summary><br/>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=sbg224)
-
 </details>
 
 ---
 
 <img src="https://raw.githubusercontent.com/Devtrotter/Devtrotter/57d797287a1541c51be8dbcd2e1f621af6b55f88/Images/snake.svg" style="background:#161b22;">
 
-💻💜🚀 by [Mohamed](https://www.linkedin.com/in/mohamed-bah-aa38a1232/)
-﻿
+🖥️🔧🚀 by [Mohamed](https://www.linkedin.com/in/mohamed-bah-aa38a1232/)
