@@ -1,6 +1,6 @@
 # Salut! Je suis Mohamed BAH 🖥️🔧🚀
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+England+SemiJoine&pause=1000&color=2B62D4&center=false&vCenter=false&repeat=true&random=false&width=500&lines=Technicien+R%C3%A9seaux+%26+Syst%C3%A8mes;Proxmox+%C2%B7+OPNsense+%C2%B7+Docker+%C2%B7+WireGuard;CCNA+en+cours+%F0%9F%8E%AF;Ancien+d%C3%A9veloppeur+web+%E2%86%92+Infra+Linux)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+England+SemiJoine&pause=1000&color=2B62D4&center=false&vCenter=false&repeat=true&random=false&width=500&lines=Administrateur+R%C3%A9seaux+%26+Syst%C3%A8mes;Proxmox+%C2%B7+OPNsense+%C2%B7+Docker+%C2%B7+WireGuard;CCNA+en+cours+%F0%9F%8E%AF;Ancien+d%C3%A9veloppeur+web+%E2%86%92+Infra+Linux)](https://git.io/typing-svg)
 
 Développeur web de formation, je migre aujourd'hui vers les **réseaux et l'administration système**.  
 Je maintiens un homelab en production — réseau segmenté, VMs sous Proxmox, stack Docker — et je prépare activement le **CCNA**.  
